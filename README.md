@@ -1,2 +1,2 @@
-# learngit
-This repository is used to learn Git
+# learngC
+This repository is used to learn C language
